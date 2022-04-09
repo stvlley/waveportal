@@ -21,7 +21,7 @@ export default function App() {
         </div>
 
         <button className="waveButton" onClick={wave}>
-          Wave at Me
+          I said wave bitch
         </button>
       </div>
     </div>
